@@ -13,6 +13,7 @@ But, we want to use a single recyclerview with multiple view types.
  See the code how you can replicate the same. Enjoy coding 👨‍💻
 
 ## Screenshot
-
-![App Screenshot](https://i.ibb.co/7ndT88v/moviely.png)
+<p align="center">
+<img width="300" src="https://i.ibb.co/7ndT88v/moviely.png">
+</p>
 
