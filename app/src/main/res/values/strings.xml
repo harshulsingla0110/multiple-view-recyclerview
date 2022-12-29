@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycler Multi View App</string>
+    <string name="view_all">view all</string>
+    <string name="total_movies">🎬 %1$d movies</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+</resources>
